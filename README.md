@@ -1,4 +1,3 @@
-Descrição:
 Este projeto utiliza **aprendizado de máquina** para identificar fraudes em transações de cartões de crédito com base em um conjunto de dados real do **Kaggle**. Foram testados três modelos: **Random Forest, XGBoost e Redes Neurais**, comparando desempenho com métricas como **precisão, recall e F1-score**.
 
 **Ferramentas Utilizadas:**  
