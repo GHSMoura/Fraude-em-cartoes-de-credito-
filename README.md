@@ -1,4 +1,5 @@
  Análise Final do Trabalho - Detecção de Fraude em Cartões de Crédito
+ 
 🔍 Introdução
 Este estudo explorou diferentes abordagens de Machine Learning para detecção de fraudes em transações de cartão de crédito, incluindo Random Forest, XGBoost, Redes Neurais e um modelo híbrido. Aplicamos balanceamento de dados (SMOTE), seleção de features e validação cruzada para garantir um modelo robusto e eficiente.
 
