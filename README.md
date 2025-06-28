@@ -34,7 +34,7 @@ Os testes realizados mostraram **altíssimo desempenho dos modelos** em identifi
 
 ---
 
-### **🚀 Conclusões e Próximos Passos**
+### **🚀 Conclusões**
 🔹 **Random Forest + XGBoost se provou a melhor estratégia**, garantindo **alta precisão e recuperação de fraudes**.  
 🔹 **Os resultados mostraram pouca variação entre treino e teste**, indicando que **o modelo não sofre de overfitting**.  
 
